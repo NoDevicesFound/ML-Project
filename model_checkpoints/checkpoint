@@ -1,2 +1,2 @@
-model_checkpoint_path: "best_Electric Guitar_model.ckpt"
-all_model_checkpoint_paths: "best_Electric Guitar_model.ckpt"
+model_checkpoint_path: "best_Piano_model.ckpt"
+all_model_checkpoint_paths: "best_Piano_model.ckpt"
